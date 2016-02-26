@@ -12,6 +12,8 @@ int poteguj(int podstawa, int wykladnik){
 	}
 return wynik;
 }
+
+
 int main(){
 	int liczba[32];
 	int i,j,reszta;
@@ -34,7 +36,7 @@ int main(){
 		printf("%d",liczba[i]);
 	printf("\n");
 
-int dni=0,miesiace=0,lata=0;
+	int dni=0,miesiace=0,lata=0;
 
 	j=0;
 
@@ -64,7 +66,7 @@ int dni=0,miesiace=0,lata=0;
 
                 printf("liczba lat wynosi %d\n",lata);
 
-printf("Zakodowana liczba 1032225 to 1.1.2016\n");
+	printf("Zakodowana liczba 1032225 to 1.1.2016\n");
 
 return 0;
 }
