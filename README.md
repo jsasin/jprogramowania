@@ -12,7 +12,7 @@
 * [x] [zadanie6] [lab01/zad06.c]
 
 
-2. [Laboratorium 2](lab2):
+1. [Laboratorium 2](lab2):
 * [x] [zadanie1] [lab2/program1.c]
 * [x] [zadanie2] [lab2/program2.c]
 * [ ] [zadanie3] [lab2/program3.c]
