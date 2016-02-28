@@ -1,5 +1,0 @@
-#!/bin/bash
-
-./program1
-
-echo $?
