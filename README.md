@@ -16,3 +16,10 @@
 * [x] [zadanie1] (lab2/program1.c)
 * [x] [zadanie2] (lab2/program2.c)
 * [ ] [zadanie3] (lab2/program3.c)
+
+
+[Laboratorium 2](lab3):
+* [x] [zadanie1] (lab3/z1.c)
+* [x] [zadanie2] (lab3/z2.c)
+* [x] [zadanie3] (lab3/z3.c)
+* [x] [zadanie4] (lab3/z4.c)
