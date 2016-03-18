@@ -27,5 +27,5 @@
 
 [Laboratorium 4](lab4):
 * [x] [zadanie1] (lab4/z1.c)
-* [] [zadanie2] (lab4/z2.c)
+* [ ] [zadanie2] (lab4/z2.c)
 * [x] [dodatkowe] (lab3/dodatkowe.c)
