@@ -23,3 +23,9 @@
 * [x] [zadanie2] (lab3/z2.c)
 * [x] [zadanie3] (lab3/z3.c)
 * [x] [zadanie4] (lab3/z4.c)
+
+
+[Laboratorium 4](lab4):
+* [x] [zadanie1] (lab4/z1.c)
+* [] [zadanie2] (lab4/z2.c)
+* [x] [dodatkowe] (lab3/dodatkowe.c)
