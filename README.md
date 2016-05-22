@@ -35,18 +35,17 @@
 * [x] [zadanie2] (lab5/z2.c)
 
 [Laboratorium 6](lab6):
-* [x] [zadanie1] (lab4/z1.c)
-* [x] [zadanie2] (lab4/z1.c)
-* [x] [zadanie3] (lab3/z1.c)
+* [x] [zadanie1] (lab6/z1.c)
+* [x] [zadanie2] (lab6/z1.c)
+* [x] [zadanie3] (lab6/z1.c)
 
 /////////////////////////////////////////////
-[Laboratorium 4](lab4):
-* [x] [zadanie1] (lab4/z1.c)
-* [ ] [zadanie2] (lab4/z2.c)
-* [x] [dodatkowe] (lab3/dodatkowe.c)
-* 
+[Laboratorium 7](lab7):
+* [x] [zadanie1] (lab7/z1.c)
+* [x] [zadanie2] (lab7/z2.c)
 
-[Laboratorium 4](lab4):
-* [x] [zadanie1] (lab4/z1.c)
-* [ ] [zadanie2] (lab4/z2.c)
-* [x] [dodatkowe] (lab3/dodatkowe.c)
+[Laboratorium 4](lab8):
+* [x] [zadanie1] (lab8/z1.c)
+* [x] [zadanie2] (lab8/z2.c)
+* [x] [zadanie3] (lab8/z3.c)
+* [x] [zadanie4] (lab8/z4.c)
