@@ -39,11 +39,10 @@
 * [x] [zadanie2] (lab6/z1.c)
 * [x] [zadanie3] (lab6/z1.c)
 
-/////////////////////////////////////////////
 [Laboratorium 7](lab7):
 * [x] [zadanie1] (lab7/z1.c)
 * [x] [zadanie2] (lab7/z2.c)
-
+/////////////////////////
 [Laboratorium 4](lab8):
 * [x] [zadanie1] (lab8/z1.c)
 * [x] [zadanie2] (lab8/z2.c)
