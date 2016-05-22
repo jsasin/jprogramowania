@@ -48,3 +48,8 @@
 * [x] [zadanie2] (lab8/z2.c)
 * [x] [zadanie3] (lab8/z3.c)
 * [x] [zadanie4] (lab8/z4.c)
+
+
+[Laboratorium 9](lab9):
+* [x] [zadanie1] (lab9/calc.php)
+* [x] [zadanie2] (lab9/odwiedziny.php)
