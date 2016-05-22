@@ -27,5 +27,26 @@
 
 [Laboratorium 4](lab4):
 * [x] [zadanie1] (lab4/z1.c)
+* [x] [zadanie2] (lab4/z2.c)
+* [x] [dodatkowe] (lab3/dodatkowe.c)
+
+[Laboratorium 5](lab4):
+* [x] [zadanie1] (lab5/z1.c)
+* [x] [zadanie2] (lab5/z2.c)
+
+[Laboratorium 6](lab4):
+* [x] [zadanie1] (lab4/z1.c)
+* [x] [zadanie2] (lab4/z2.c)
+* [x] [zadanie3] (lab3/z3.c)
+
+/////////////////////////////////////////////
+[Laboratorium 4](lab4):
+* [x] [zadanie1] (lab4/z1.c)
+* [ ] [zadanie2] (lab4/z2.c)
+* [x] [dodatkowe] (lab3/dodatkowe.c)
+* 
+
+[Laboratorium 4](lab4):
+* [x] [zadanie1] (lab4/z1.c)
 * [ ] [zadanie2] (lab4/z2.c)
 * [x] [dodatkowe] (lab3/dodatkowe.c)
