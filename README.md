@@ -55,7 +55,7 @@
 * [x] [zadanie2] (lab9/odwiedziny.php)
  
 
-[Laboratorium 9](moje- dodatkowe):
+[Zadania dodatkowe](moje- dodatkowe):
 * [x] [zadanie1] (moje- dodatkowe/quicksort.c)
 Sortowanie quicksort dla danych korzystnych i niekorzystnych
 * [x] [zadanie2] (moje- dodatkowe/zbiory.c)
