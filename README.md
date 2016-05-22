@@ -53,3 +53,10 @@
 [Laboratorium 9](lab9):
 * [x] [zadanie1] (lab9/calc.php)
 * [x] [zadanie2] (lab9/odwiedziny.php)
+ 
+
+[Laboratorium 9](moje- dodatkowe):
+Sortowanie quicksort dla danych korzystnych i niekorzystnych
+* [x] [zadanie1] (moje- dodatkowe/quicksort.c)
+Zbiory rozłączne z kompresją ścieżki
+* [x] [zadanie2] (moje- dodatkowe/zbiory.c)
