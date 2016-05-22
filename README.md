@@ -56,7 +56,7 @@
  
 
 [Laboratorium 9](moje- dodatkowe):
-Sortowanie quicksort dla danych korzystnych i niekorzystnych
 * [x] [zadanie1] (moje- dodatkowe/quicksort.c)
-Zbiory rozłączne z kompresją ścieżki
+Sortowanie quicksort dla danych korzystnych i niekorzystnych
 * [x] [zadanie2] (moje- dodatkowe/zbiory.c)
+Zbiory rozłączne z kompresją ścieżki
