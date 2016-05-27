@@ -1,4 +1,4 @@
-sources = quicksort.c zbiory.c
+sources = quicksort.c zbiory.c x_time.c
 
 programs = $(basename $(sources))
 objects = $(addsuffix .o, $(programs))
